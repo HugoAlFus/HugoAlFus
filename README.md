@@ -1,5 +1,5 @@
 ## Hi, I am Hugo Almodóvar Fuster
-![Header](./)
+![Header](./banner_github.png)
 <!--
 **HugoAlFus/HugoAlFus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
