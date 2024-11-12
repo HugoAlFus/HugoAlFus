@@ -1,5 +1,12 @@
 ## Hi, I am Hugo Almodóvar Fuster
 ![Header](./banner_github.png)
+
+## About me
+- 🎓 2nd-year DAM student
+- 💻 Passionate about programming and multiplatform development
+- ⚡ Enthusiast in Java, C#, and SQL
+- 📱 Always exploring new technologies and tools
+
 <!--
 **HugoAlFus/HugoAlFus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
