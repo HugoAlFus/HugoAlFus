@@ -5,7 +5,7 @@
 
 ![Header](./banner_github.png)
 
-## About me
+## 💫About me
 - 🎓 2nd-year DAM student
 - 💻 Passionate about programming and multiplatform development
 - ⚡ Enthusiast in Java, C#, and SQL
