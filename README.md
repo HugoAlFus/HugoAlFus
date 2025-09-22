@@ -6,10 +6,10 @@
 ![Header](./banner_github.png)
 
 ## 💫About me
-- 🎓 2nd-year DAM student
-- 💻 Passionate about programming and multiplatform development
-- ⚡ Enthusiast in Java, C#, and SQL
-- 📱 Always exploring new technologies and tools
+- 🎓 2nd-year DAW student | Graduated in DAM  
+- 💻 Developer at Minsait & passionate about programming  
+- ⚡ Enthusiast in Java, C#, and SQL  
+- 📱 Always exploring new technologies and tools 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
